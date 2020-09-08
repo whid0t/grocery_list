@@ -1,4 +1,4 @@
-# Made by whid0t on 8th September 2020.ab
+# Made by whid0t on 8th September 2020
 
 print("Hi and welcome to my console app for checking total cost of your grocery shopping.")
 
